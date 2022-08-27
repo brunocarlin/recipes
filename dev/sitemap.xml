@@ -52,6 +52,12 @@
     <loc>https://recipes.tidymodels.org/dev/reference/bake.html</loc>
   </url>
   <url>
+    <loc>https://recipes.tidymodels.org/dev/reference/case-weight-helpers.html</loc>
+  </url>
+  <url>
+    <loc>https://recipes.tidymodels.org/dev/reference/case_weights.html</loc>
+  </url>
+  <url>
     <loc>https://recipes.tidymodels.org/dev/reference/check_class.html</loc>
   </url>
   <url>
@@ -62,6 +68,9 @@
   </url>
   <url>
     <loc>https://recipes.tidymodels.org/dev/reference/check_name.html</loc>
+  </url>
+  <url>
+    <loc>https://recipes.tidymodels.org/dev/reference/check_new_data.html</loc>
   </url>
   <url>
     <loc>https://recipes.tidymodels.org/dev/reference/check_new_values.html</loc>
@@ -185,9 +194,6 @@
   </url>
   <url>
     <loc>https://recipes.tidymodels.org/dev/reference/step_discretize.html</loc>
-  </url>
-  <url>
-    <loc>https://recipes.tidymodels.org/dev/reference/step_downsample.html</loc>
   </url>
   <url>
     <loc>https://recipes.tidymodels.org/dev/reference/step_dummy.html</loc>
@@ -388,13 +394,13 @@
     <loc>https://recipes.tidymodels.org/dev/reference/step_string2factor.html</loc>
   </url>
   <url>
+    <loc>https://recipes.tidymodels.org/dev/reference/step_time.html</loc>
+  </url>
+  <url>
     <loc>https://recipes.tidymodels.org/dev/reference/step_unknown.html</loc>
   </url>
   <url>
     <loc>https://recipes.tidymodels.org/dev/reference/step_unorder.html</loc>
-  </url>
-  <url>
-    <loc>https://recipes.tidymodels.org/dev/reference/step_upsample.html</loc>
   </url>
   <url>
     <loc>https://recipes.tidymodels.org/dev/reference/step_window.html</loc>
@@ -413,5 +419,8 @@
   </url>
   <url>
     <loc>https://recipes.tidymodels.org/dev/reference/update.step.html</loc>
+  </url>
+  <url>
+    <loc>https://recipes.tidymodels.org/dev/reference/update_role_requirements.html</loc>
   </url>
 </urlset>
